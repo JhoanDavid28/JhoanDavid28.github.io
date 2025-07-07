@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://jhoandavidpll.github.io',
+  site: 'https://JhoanDavid28.github.io',
   base: 'my-repo',
   devToolbar: {
     enabled: false
